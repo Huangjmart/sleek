@@ -1,87 +1,27 @@
 ---
 layout: post
-title: Getting Started with Sleek
-featured-img: sleek
-mathjax: true
+title: 生命、爱、 死亡、性、恐惧 | 一幅只展不卖的画
+summary: 如果我们稍微留意和觉察，实际上我们对自己的了悟是非常清楚的。只是大多时候我们对自身生命的感受还是存在惰性或者的确缺乏觉悟……实际上在我真正病倒之前,诸多的信号和各种不适就已经包围着我了，而且你对自己的把握(包括身心)能力极度缺失——事情很简单,可能一阵风，一口水都能要了你的命
+featured-img: godie
 ---
 
-# Getting started
+# 谈画：《去死》
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `blog` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
+**黄**： 如果我们稍微留意和觉察，实际上我们对自己的了悟是非常清楚的。只是大多时候我们对自身生命的感受还是存在惰性或者的确缺乏觉悟……
 
-1. Just download or fork and clone the source from [github.com/janczizikow/sleek](https://github.com/janczizikow/sleek/).
-2. Make sure your local machine has ruby and node
-3. Edit site settings in  `_config.yml` file according to your project.
-4. Replace `favicons` and `_includes/logo.svg` with your own logo.
+实际上在我真正病倒之前,诸多的信号和各种不适就已经包围着我了，而且你对自己的把握(包括身心)能力极度缺失——事情很简单,可能一阵风，一口水都能要了你的命……
 
-**Note** that you might have to adjust some CSS depending on the width and height of your logo. You can find Header / Navigation related SCSS in `_sass/layout/nav.scss`.
+晚上锻炼踢毽球呀！当时来了一个背飞的动作，接球嘛!直接撂倒，背过去气啦，你想那会有多大的力啊！靠！没了气啦……好一阵子回过来气，直到现在记忆犹新。噢……那是死过去的感觉……后去医院检查，骨头倒没断，但还是拄拐半个月。这幅画也是在这期间想到的，身体稍好后我就画了这幅画，画的也很快，很尽兴。画完这幅画才真是长出一口气，唉!
 
-## Writing content
+养伤时这幅画的感受就浮现在脑海……人这死呀！实际是很简单的事，只有这时候才能静下来感受这种状态。从生到死，我躲在(卷缩在)一种状态下，用我的方式是在袋子里，既安全又自得……而生命的小鬼正在行进中完成一个过程。从生命的开始，逐渐的抬起生命之头(勃起)到慢慢的衰亡……萎缩，而失去力量，生命的行走没有变化，但内容变化了，他失去了力量，失去了能力，可能还失去了欲望，呈疲软状。我喜欢画小鬼，因为它是我们生命中的影子，也或许是我们的灵魂。这也与小时候受鬼文化鬼故事影响有关……
 
-### Posts
+![A89628B7-0975-442C-A9D3-735AB387DF2F](/index/assets/img/posts/A89628B7-0975-442C-A9D3-735AB387DF2F.png)
 
-Create a new Markdown file such as `2017-01-13-my-post.md` in `_post` folder. Configure YAML Front Matter (stuff between `---`):
+**海霞**：我感觉你这幅画表现的是去死的过程中，包含着对生的希望，这种希望很强烈……包括他的眼神，包括整个画面。另外，这幅画色彩运用的特别好。我倒不是认为你是在刻意的用什么颜色，我感觉你就是一气呵成的。你整个当时的情绪流露的过程中，明暗也运用的非常好。包括他的眼神往后面看和那种对生命的期望,包括他身体的处理上。其实我觉得这些东西都不是你刻意去做的。正因为它非常自然，所以它美！这幅作品里面就是抛开了所有技术性的东西，就是它纯粹是一个自然而且不是在刻意运用技术的时候把技术运用的如何相对比较好的那种很自然的状态…..所以我喜欢这幅画，就是这个感觉，绝对不做作。你的作品总是具有自我毁灭的激情和通透人生的深度，都始终围绕着生命、爱、 死亡、性、恐惧的主体。画面中始终洋溢着一种直击人心的神秘原始力量和类似于宗教的神秘力量。
 
-```yaml
+**黄**： 这可能就是有感而发吧。它是根据感受编造了一个故事，并且这个故事还有浪漫的节奏……今天的话，且行且珍惜吧！这也更像发自内心的琢磨。这就是感受，就应该这样去画。另外在画面上的小鬼不仅有着古典艺术的优美浪漫的节奏姿态，整个画面的氛围，也很有戏剧般的内容和哥特式优美……这个从地底下映上来的光，那种像幽魂一样的幽幽的光，也叫死去之光或地狱之光吧，还泛着一丝丝的冷艳，地面和地下一直泛着那种光，哎呀！这太神奇了。当时可能画的时候没有去总结它，但是后来那个地光啊！！！我觉得画的最好。
 
----
-layout: post # needs to be post
-title: Getting Started with Sleek # title of your post
-featured-img: sleek #optional - if you want you can include hero image
----
+**海霞**：就是追求这种不是刻意的东西，但是流露出来的却是最最真实的，最自的。我都能想象他那种宣泄的情感，很随意特别随意。但是出来就感觉非常好，而且他对生命的那种延续，每个人对生命的一种希望和一种本能的追求……我喜欢的是他的那种既把技术的东西融合在情感里面又不刻意……
 
-```
+**卫青**：黄老师这幅作品是要做成雕塑？
 
-#### Images
-
-In case you want to add a hero image to the post, apart from changing `featured-img` in YAML, you also need to add the image file to the project. To do so, just upload an image in `.jpg` format to `_img` folder. The name must before the `.jpg` file extension has to match with `featured-img` in YAML. Next, run `gulp img` from command line to generate optimized version of the image and all the thumbnails. You have to restart  the jekyll server to see the changes. Sleek uses [Lazy Sizes](https://github.com/aFarkas/lazysizes) Lazy Loader for loading images. Check the link for more info. Lazy Sizes doesnt't require any configuration and it's going to be included in your bundled js file.
-
-### Pages
-
-The home page is located under `index.md` file. To change the content or design you have to edit the `default.html` file in `_layouts` folder.
-
-In order to add a new page, create a new html or markdown file under root directory or inside `_pages` folder. To add a link to the page, edit `navigation` setting in `_config.yml`.
-
-### Images TODO
-
-Introduce gulp optimization
-
-Breakpoint | Image Type | Width | Retina
------------- | ------------ | ------------- | -------------
-xs |Post Thumb | 535px | 1070px
-sm |Post Thumb | 500px| 1000px
-md |Post Thumb | 329.375px | 658.75px
-lg |Post Thumb | 445.625px | 891.25px
-xl |Post Thumb | 353.125px | 706.25px
-
-Breakpoint | Image Type | Width | Retina
------------- | ------------ | ------------- | -------------
-xs |Post Hero | 535px | 1070px
-sm |Post Hero | 500px| 1000px
-md |Post Hero | 329.375px | 658.75px
-lg |Post Hero | 445.625px | 891.25px
-xl |Post Hero | 353.125px | 706.25px
-
-### MathJax
-
-If you want to use [MathJax](https://www.mathjax.org/) in your posts, add `mathjax: true` in [YAML front matter](https://jekyllrb.com/docs/frontmatter/) of your post:
-
-```yaml
----
-layout: post
-title: Blog Post with MathJax
-featured-img: sleek # optional - if you want you can include name of hero image
-mathjax: true # add this line in order to enable MathJax in the post
----
-```
-
-#### Example
-
-In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
-for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
-divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
-The kerel summation radius $r$ is equal to the N-simplex height $h$.
-
-$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
-Happy hacking!

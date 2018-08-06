@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
-title: Huang Jinming's Art # your site title
+title: Jinming Huang's Art # your site title
 author: huangjmart # You :P
 description: > # Meta description of Homepage
-  Huang Jinming's blog 黄进明艺术博客
+  Jinming Huang's blog 黄进明艺术博客
 baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://huangjmart.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Huang Jinming
+  name: Jinming Huang
   links:
     - https://github.com/huangjmart
     - https://www.instagram.com/huangjmart/
@@ -31,7 +31,7 @@ github_username:  huangjmart # replace with your_github_username or comment to r
 instagram_username: huangjmart # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
-  shortname: Hunag Jinming # to enable comments replace with your_disqus_shortname
+  shortname: Jinming Hunag # to enable comments replace with your_disqus_shortname
 
 # google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 

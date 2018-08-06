@@ -4,10 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+## 个展
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+- 2015年		生命简史, PII GALLART, 费城
+- 2010年            黄金鬼, 东街画廊, 北京
+- 2007年            刺激2007——黄进明的救赎, 现在画廊, 北京
+- 2007年            刺激2007——黄进明的救赎, 现在画廊, 上海
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+## 联展
+
+- 2010年            改造历史——2000-2009 年的中国新艺术, 国家会议中心, 北京
+  - 艺术北京——当代艺术博览会, 农业展览馆, 北京
+  - 东街新艺术展, 东街画廊, 北京
+- 2006年            佛罗伦萨艺术博览会, 佛罗伦萨
+  - ARCO 艺术博览会, 马德里
+  - 中艺博国际画廊博览会, 北京
+
